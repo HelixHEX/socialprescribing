@@ -14,7 +14,6 @@ Features include:
 # Project Set-up
 
 
-
 **Note:** Install yarn if you don't already have it
 
 ```bash
